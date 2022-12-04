@@ -1,0 +1,33 @@
+body
+.b1
+{
+	background-color: blue;
+	height: 250px;
+	width: 250px;
+	float: left;
+	margin:10px;
+}
+
+.b2
+{
+	background-color: green;
+	height: 250px;
+	width: 250px;
+	float: left;
+	margin:10px;
+}
+.b3
+{
+	clear:both;
+	background-color: red;
+	height: 250px;
+	width: 250px;
+	float: left;
+	margin:10px;
+}
+img 
+{
+	width:150px; 
+	height:150px;
+	margin-left: 
+}

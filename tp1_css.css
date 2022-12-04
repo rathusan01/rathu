@@ -1,0 +1,21 @@
+body
+{
+    background-color: palegoldenrod;
+}
+button 
+{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    border: 2px solid red;
+    border-radius: 26px;
+    color:aliceblue;
+    font-size:2em;
+
+}
+
+button:hover
+{
+    background-color: yellow;
+    color: black;
+}

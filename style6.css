@@ -1,0 +1,56 @@
+body
+{
+	background-color: black;
+	text-align: center;
+	margin-left: 25%;
+	margin-right:35%; 
+}
+h1
+{
+	color: skyblue;
+	font-size:2em;
+
+}
+button:hover
+{
+	color: darkblue;
+	background-color: black;
+	border:2px solid blue;
+}
+div
+{
+
+	border: 2px solid blue;
+	border-radius: 50px;
+	width:70%;
+	margin-right:35%; 
+	margin-left:25%;
+	padding: 3%;
+	
+
+}
+button 
+{
+
+	background-color: darkblue;
+	text-align: center;
+	width: 250px;
+	padding: 30px 40px;
+	border-radius: 50px;
+	margin-right:  3px;
+	border: 2px solid blue;
+	margin-top: 3px;
+	
+
+}
+input
+{
+	background-color: darkblue;
+	text-align: center;
+	width: 450px;
+	padding: 30px 40px;
+	border-radius: 50px;
+	margin-right:  3px;
+	border: 2px solid blue;
+	margin-top: 3px;
+}
